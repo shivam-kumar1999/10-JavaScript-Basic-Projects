@@ -1,3 +1,6 @@
+Slider
+https://sliderrrrrr.netlify.app/
+
 Reviews
 https://reviewsssss.netlify.app/
 
