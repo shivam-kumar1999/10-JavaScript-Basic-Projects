@@ -4,7 +4,7 @@ https://customcursorrrrr.netlify.app/
 MouseMover Animation..
 https://imageanimationnnn.netlify.app/
 
-Slider
+Slider...
 https://sliderrrrrr.netlify.app/
 
 Reviews
