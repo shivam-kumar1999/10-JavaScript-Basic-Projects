@@ -1,4 +1,4 @@
-Custom Cursor..
+Custom Cursor....
 https://customcursorrrrr.netlify.app/
 
 MouseMover Animation..
